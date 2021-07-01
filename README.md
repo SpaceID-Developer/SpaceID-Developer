@@ -1,7 +1,5 @@
 ## Hi there, I'm SpaceID Developer! 👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SpaceID-Developer-ops-cyber" alt="sujal-ops-cyber" /> </p>
-
 
 <img src=https://media.discordapp.net/attachments/850563339528830996/860152689068081162/Screenshot_2021-07-01-20-39-33-904.jpeg>
 
@@ -20,8 +18,9 @@
     <img src="https://img.shields.io/badge/SpaceID Dev%233614-%237289da?logo=discord&style=flat-square" alt="Discord" SpaceID Dev#0001"/>
   </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SpaceID-Developer-ops-cyber" alt="sujal-ops-cyber" width="92px" /> </p>
                                                                                                                                
-### Hey I'm SpaceID Developer to see you here! &nbsp;
+## Hey I'm SpaceID Developer to see you here! &nbsp;
 <details open>
   <summary>About</summary>
 <br />
